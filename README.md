@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wechatbot
 > 最近chatGPT异常火爆，本项目可以将个人微信化身GPT机器人，
 > 项目基于[openwechat](https://github.com/eatmoreapple/openwechat) 开发。
@@ -64,3 +65,6 @@ session_timeout：会话超时时间，默认60秒，单位秒，在会话时间
 
 <img width="210px"  src="https://raw.githubusercontent.com/869413421/study/master/static/qr.png" align="left">
 
+=======
+# wechatbot
+>>>>>>> bf6a3917ba71c34cd3baebcbf08e4002c8ab9b7d
